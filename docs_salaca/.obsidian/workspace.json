@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "7b81983c3aab73e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a34c8dfe2f9f588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c0f588497c8525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3a2e8cfce7af624",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c7e9dc869d0cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba09ebf023af643",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b409967e081be1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "!!!",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88981a83ed777cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "919ec68c07a2a9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00e6af4e302d7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f28eebc3d6bb404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "67bf99c812473296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7d509e4920d5a28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "69c0f588497c8525",
+  "lastOpenFiles": [
+    "xxx.md",
+    "index.md",
+    "deliverymanager.md",
+    "compare.md",
+    "~$owserconfig.xml",
+    "content/storymapping2.md",
+    "book/DeliveringEarlySummary.md",
+    "files/delivering-early-and-often-v2-0.pdf",
+    "book/KanbanSummary.md",
+    "book/WhyChangeSummary.md",
+    "files/iron_triangle.jpeg",
+    "files/J_Patton_agile_11x17.pdf",
+    "files/J_Patton_story_essentials_quickref.pdf",
+    "files/J_Patton_story_mapping.pdf",
+    "files/Screenshot 2025-12-08 at 01.02.22.png",
+    "files/why-change-v3-0.pdf",
+    "files/IronTriangle.png",
+    "files/delivering-early-and-often-v2-0 1.pdf",
+    "files/StoryMapStep7.png",
+    "files/StoryMapApplying.png",
+    "files/StoryMapStep3.png",
+    "files/StoryMapStep2.png",
+    "files/VFQ_BOOK_communication-collaboration-and-coordination-v2-0.pdf",
+    "files/VFQ_BOOK_teams-v3-0.pdf",
+    "files/VFQ_BOOK_batch-size-matters-v2-0.pdf",
+    "book/whychange.md",
+    "book/early.md",
+    "vfq.md",
+    "Screenshot 2025-12-08 at 01.02.22.png",
+    "mvp.md",
+    "flavours.md",
+    "book/praxis.md",
+    "modern.md",
+    "modern_agile_wheel_english.svg",
+    "manifesto.md",
+    "ProductOwner.md",
+    "Untitled.canvas",
+    "2025-12-04.md",
+    "2024-08-23.md",
+    "2024-04-10.md",
+    "content/se_desk_research.md",
+    "content/filter.md",
+    "2024-04-08.md",
+    "2024-01-09 1.md",
+    "2023-12-19.md",
+    "2023-11-30.md",
+    "Attachments/Pasted image 20231005140856.png"
+  ]
+}

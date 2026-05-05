@@ -1,0 +1,20 @@
+{
+  "obsidian-paste-to-current-indentation:paste-in-mode-TextBlockquote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-paste-to-current-indentation:paste-in-mode-Text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}

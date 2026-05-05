@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"139f57bd317c6521","x":-300,"y":60,"width":600,"height":400,"type":"file","file":"docs_research/content/fair-work.md"},
+		{"id":"3ec388ac4b6874a7","x":-1760,"y":400,"width":250,"height":60,"color":"5","type":"text","text":"yjhtujtunu6j"}
+	],
+	"edges":[]
+}

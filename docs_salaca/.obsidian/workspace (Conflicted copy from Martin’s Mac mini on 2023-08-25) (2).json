@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "7b81983c3aab73e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b48cfa0ae42e9fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c8b980cfb5e613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/monday.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3a2e8cfce7af624",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c7e9dc869d0cc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ba09ebf023af643",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b409967e081be1d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fins",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82d63e257ab0843c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "88981a83ed777cb6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "919ec68c07a2a9bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d00e6af4e302d7e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f28eebc3d6bb404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/monday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "67bf99c812473296",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "05c8b980cfb5e613",
+  "lastOpenFiles": [
+    "index.md",
+    "content/monday.md",
+    "content/naming.md",
+    "content/Top10-STAFF.md",
+    "content/Rough-Working-Page.md",
+    "content/7fbb96b1ae885218171270f32d9108ec._gstmp",
+    "content/imagery.md",
+    "content/Top10.md",
+    "3ffa67069dcec0ba5f3d0e4daeb5e554._gstmp",
+    "content/fair-work.md",
+    "content/ux.md",
+    "content/brand.md",
+    "content/renewables.md",
+    "content",
+    "2023-08-24.md",
+    "content/OGMS.md",
+    "content/filter.md",
+    "content/language.md",
+    "Top 10 things we hear all the time.md",
+    "2023-08-23.md",
+    "portage_distances.md",
+    "files/day2portages.png",
+    "2022-09-21.md",
+    "distances.md",
+    "2022-09-09.md",
+    "2022-08-30.md",
+    "2022-08-24.md",
+    "files/portages.png",
+    "Day1_Portages.png.md"
+  ]
+}
